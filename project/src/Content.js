@@ -22,7 +22,7 @@ const Content = () => {
       <p>hi there {name}!</p>
       <button onClick={nameoOfChange}>change name</button>
       <button onClick={handleClick}> click here</button>
-      <button onClick={handleClick2}>click button</button>
+      <button onClick={handleClick2}>click button1</button>
     </main>
   );
 };
